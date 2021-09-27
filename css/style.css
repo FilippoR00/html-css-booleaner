@@ -48,3 +48,12 @@ h1{
 .photo-description{
     font-size: 12px;
 }
+
+.paragrafo{
+    font-size: 17px;
+    padding-top: 20px;
+}
+
+#bg{
+    background-color: yellow;
+}
