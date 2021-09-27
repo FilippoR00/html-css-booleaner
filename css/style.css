@@ -61,3 +61,28 @@ h1{
 .lista{
     padding-left: 20px;
 }
+
+table{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.tr{
+    background-color: rgb(32,169,229);
+    color: white;
+    font-size: 17px;
+}
+
+.lightblue{
+    background-color: paleturquoise;
+    color: black;
+}
+
+.white{
+    background-color: white;
+    color: black;
+}
+
+.half{
+    width: 50%;
+}
