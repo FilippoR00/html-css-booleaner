@@ -71,6 +71,7 @@ h1{
 table{
     width: 100%;
     padding-top: 20px;
+    border-spacing: 0px;
 }
 
 .tr{
